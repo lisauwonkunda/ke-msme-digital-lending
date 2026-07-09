@@ -30,6 +30,12 @@ Among Kenya's licensed digital credit providers, effective APRs span more than 1
 
  Full reasoning, including the primary risk to this recommendation, is in the memo.
 
+**Full Investment Memo** : [Kenya Digital Lending Memo - Lisa Uwonkunda.pdf](https://github.com/user-attachments/files/29868572/Kenya.Digital.Lending.Memo.-.Lisa.Uwonkunda.pdf)
+
+**Lending Benchmarking Table**: [Project 1 — Benchmarking Table.xlsx](https://github.com/user-attachments/files/29868594/Project.1.Benchmarking.Table.xlsx)
+
+
+
 
  **Lisa Uwonkunda**
  
